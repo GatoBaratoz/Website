@@ -1,0 +1,29 @@
+p {
+    color:#B49E7D;
+    font-size:26px;
+}
+body{
+    background-color:#615A5D;}
+
+
+.my-css-rule  {background:#e9b6ca; font-size: 1.5rem;}
+h1 {
+    font-size: 150px;
+}
+h7{font-size: 100px}
+a:link {
+    color: #B49E7D;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 70px;
+  }
+  a:hover {
+    color: #B49E7D;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: #B49E7D;
+    background-color: transparent;
+    text-decoration: underline;
+  }
